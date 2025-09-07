@@ -1,17 +1,17 @@
 Passionate about software engineering\
 Interested in Web development and Logic Building\
-#This is my first-level heading
-**This text is bold**\
-*This text is italic*\
-***This text is bold and italic***\
+# This is my first-level heading
+**This text is bold** \
+*This text is italic* \
+***This text is bold and italic*** \
 ## Ordered List
 1. first \
-2. second\
-3. third\
+2. second \
+3. third \
 ### Unordered List
--first\
-*second\ 
-+third\
+- first \
+* second \ 
++ third \
 
 
 
